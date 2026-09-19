@@ -50,17 +50,6 @@ Senior software engineer and technical lead with 20+ years building scalable, re
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vijay-karajgikar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=vijay-karajgikar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 Connect on <a href="https://www.linkedin.com/in/vbkarajgikar/">LinkedIn</a>
